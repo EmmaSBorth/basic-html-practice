@@ -5,3 +5,58 @@ a {
 a img {
   width: 50px;
 }
+
+.headerBar{
+  padding-left: 4%;
+}
+
+header{
+  background-color: lightgray;
+  height: 15%;
+  margin: 0;
+  padding-top: 0;
+  padding-left: 0;
+  padding-bottom: 2%;
+  padding-right: 2%;
+}
+
+ul{
+  border: 2px solid black;
+}
+
+table{
+  margin: auto;
+}
+
+h3{
+  font-family:'arial';
+  text-align: center;
+  padding-top: 2%;
+}
+
+.menuItem{
+  width: 3%;
+  padding-right: 3%;
+}
+
+button{
+  box-shadow: -10 -10 black;
+}
+
+input{
+  margin-left: 18%;
+  width: 35%;
+  margin-right: 2%;
+}
+
+.pageFourForm{
+  line-height: 10%;
+}
+
+.fifthPageTable th{
+  background-color: grey;
+}
+
+.fifthPageTable tr:nth-child(even){
+  background-color: lightgrey;
+}
